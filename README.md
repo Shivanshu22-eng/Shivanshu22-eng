@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Shivanshu22-eng
 - 👀 I’m interested in ...new projects
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Digital Forensicis
+- 💞️ I’m looking to collaborate on ...cyber projects
 - 📫 How to reach me ... use email_shivamshuchaturvedi678@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...knights are nazizs if you know
 
 <!---
